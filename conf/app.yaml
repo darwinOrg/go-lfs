@@ -1,0 +1,9 @@
+app:
+  name: go-lfs
+  port: 8080
+
+cors:
+  debug: false
+
+store:
+  path: /tmp/
